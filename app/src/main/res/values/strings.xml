@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">CricFeed</string>
+
+    <!--Text Field Hints-->
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_feedback">What would you like to tell us?</string>
+
+    <!--Buttons-->
+    <string name="button_login">Login</string>
+    <string name="button_logout">Logout</string>
+    <string name="button_register">Register</string>
+
+    <!--Hyperlinks-->
+    <string name="link_register">New user? Register Now!</string>
+    <string name="link_login">Already have an account? Login!</string>
+
+    <!--Toasts-->
+    <string name="toast_attemptNo">"No. of attempts remaining: "</string>
+    <string name="toast_validEmpty">Please fill in all the required fields</string>
+    <string name="toast_loginSuccess">Login Successful</string>
+    <string name="toast_loginFailed">Login Failed</string>
+    <string name="toast_regSuccess">Registration Successful</string>
+    <string name="toast_regFailed">Registration Failed</string>
+    <string name="toast_feedback">Feedback Recorded</string>
+
+    <!--Bottom Nav Tabs-->
+    <string name="fragment_scores">Scores</string>
+    <string name="fragment_news">News</string>
+    <string name="fragment_more">More</string>
+
+    <!--More Tab-->
+    <string name="more_logout">Logout</string>
+    <string name="more_settings">Settings</string>
+    <string name="more_feedback">Feedback</string>
+    <string name="more_about">About CricFeed</string>
+    <string name="about_app">CricFeed works to provide you with blazing fast, reliable and accurate
+        cricket updates of all live cricket news, international cricket matches as well as the cricket leagues from all around the world.</string>
+
+    <!--Settings Page-->
+    <string name="settings_notifications">Notifications</string>
+    <string name="notifications_desc">Allow notifications</string>
+    <string name="settings_data_refresh">Automatic Data Refresh</string>
+    <string name="settings_load_image">Load Images</string>
+    <string name="data_usage_desc">May effect data usage</string>
+
+    <!--Pop-out Dialogs-->
+    <string name="dialog_close">Close</string>
+    <string name="dialog_submit">Submit</string>
+    <string name="dialog_cancel">Cancel</string>
+</resources>

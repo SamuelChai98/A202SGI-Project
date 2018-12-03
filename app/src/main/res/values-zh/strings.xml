@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CricFeed</string>
+    <string name="hint_name">姓名</string>
+    <string name="hint_email">电邮</string>
+    <string name="hint_username">用户名</string>
+    <string name="hint_password">密码</string>
+    <string name="button_login">登录</string>
+    <string name="button_logout">退出</string>
+    <string name="button_register">注册</string>
+    <string name="link_register">新用户？ 注册！</string>
+    <string name="link_login">已有户口？登录！</string>
+    <string name="dialog_cancel">取消</string>
+    <string name="dialog_submit">提交</string>
+    <string name="dialog_close">关闭</string>
+    <string name="data_usage_desc">会影响数据使用</string>
+    <string name="settings_load_image">加载图片</string>
+    <string name="settings_data_refresh">自动数据刷新</string>
+    <string name="notifications_desc">允许通知</string>
+    <string name="settings_notifications">通知</string>
+    <string name="about_app">CricFeed 致力于为您提供所有现场板球新闻，国际板球比赛以及来自世界各地的板球联赛的快速，可靠和准确的板球更新。</string>
+    <string name="more_about">关于 CricFeed</string>
+    <string name="more_feedback">反馈</string>
+    <string name="more_settings">设置</string>
+    <string name="more_logout">退出</string>
+    <string name="fragment_more">更多</string>
+    <string name="fragment_news">新闻</string>
+    <string name="fragment_scores">分数</string>
+    <string name="toast_feedback">反馈记录成功</string>
+    <string name="toast_regSuccess">注册成功</string>
+    <string name="toast_regFailed">注册失败</string>
+    <string name="toast_loginFailed">登录失败</string>
+    <string name="hint_feedback">你想告诉我们什么？</string>
+    <string name="toast_attemptNo">"剩余的尝试次数： "</string>
+    <string name="toast_validEmpty">请填写所有必填字段</string>
+    <string name="toast_loginSuccess">登录成功</string>
+</resources>

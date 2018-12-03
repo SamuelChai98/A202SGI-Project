@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "434477683703",
+    "firebase_url": "https://cricfeed-48e67.firebaseio.com",
+    "project_id": "cricfeed-48e67",
+    "storage_bucket": "cricfeed-48e67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434477683703:android:0c02391800b15f89",
+        "android_client_info": {
+          "package_name": "com.inti.student.cricfeed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434477683703-nrs264nvsrcrmessn4uaa5tbdfu007am.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQQm7R99x1GXw8Rv8FceB_SajY-2cn1bY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
